@@ -2,6 +2,7 @@
 	"compilerOptions": {
 		"inlineSourceMap": true,
 		"inlineSources": true,
+		"lib": ["DOM"],
 		"module": "esnext",
 		"moduleResolution": "node",
 		"outDir": "tsc_output",

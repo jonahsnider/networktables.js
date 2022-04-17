@@ -1,4 +1,10 @@
 {
+	"search.exclude": {
+		"**/*.code-search": true,
+		"**/*.yarn": true,
+		"**/bower_components": true,
+		"**/node_modules": true
+	},
 	"typescript.preferences.importModuleSpecifierEnding": "js",
 	"typescript.tsdk": "node_modules/typescript/lib"
 }

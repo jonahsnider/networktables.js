@@ -31,6 +31,10 @@
 		"test:coverage": "c8 --reporter lcov --reporter text-summary --100 --include 'src/**/*.ts' --exclude 'src/types/**/*.ts' --all ava"
 	},
 	"prettier": "@jonahsnider/prettier-config",
+	"dependencies": {
+		"@msgpack/msgpack": "2.7.2",
+		"type-fest": "2.12.2"
+	},
 	"devDependencies": {
 		"@jonahsnider/prettier-config": "1.1.1",
 		"@jonahsnider/xo-config": "5.1.0",

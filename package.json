@@ -1,18 +1,20 @@
 {
-	"name": "typescript-starter",
+	"name": "@jonahsnider/networktables",
 	"version": "1.0.0",
 	"private": true,
-	"description": "My personal TypeScript starter template.",
+	"description": "A NetworkTables library for JavaScript.",
 	"keywords": [
-		"typescript",
-		"starter"
+		"networktables",
+		"frc",
+		"wpilib",
+		"pubsub"
 	],
 	"bugs": {
-		"url": "https://github.com/jonahsnider/typescript-starter/issues"
+		"url": "https://github.com/jonahsnider/networktables.js/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/jonahsnider/typescript-starter.git"
+		"url": "git+https://github.com/jonahsnider/networktables.js.git"
 	},
 	"license": "Apache-2.0",
 	"author": {

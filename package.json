@@ -28,7 +28,7 @@
 		"lint": "xo",
 		"style": "prettier --check .",
 		"test": "ava",
-		"test:coverage": "c8 --reporter lcov --reporter text-summary --100 --include 'src/**/*.ts' --exclude 'src/types/**/*.ts' --all ava"
+		"test:coverage": "c8 --reporter lcov --reporter text-summary --include 'src/**/*.ts' --exclude 'src/types/**/*.ts' --all ava"
 	},
 	"prettier": "@jonahsnider/prettier-config",
 	"dependencies": {
